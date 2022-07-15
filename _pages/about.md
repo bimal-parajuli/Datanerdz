@@ -5,4 +5,4 @@ permalink: "/about.html"
 image: "/assets/images/screenshot.jpg"
 comments: true
 ---
-Maintained with <i class="fa fa-heart text-danger"></i> by Bimal [@bimal-parrajuli](https://github.com/bimal-parajuli/).
+Maintained with <i class="fa fa-heart text-danger"></i> by Bimal [@bimal-parajuli](https://github.com/bimal-parajuli/).

@@ -46,4 +46,4 @@ This blog is maintained by [Bimal](https://github.com/bimal-parajuli/)
 
 ### Live Demo
 
-[Live Demo](https://github.com/bimal-parajuli/Datanerdz/)
+[Live Demo](https://bimal-parajuli.github.io/Datanerdz/)

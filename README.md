@@ -1,12 +1,12 @@
-# Jekyll Theme - Mundana by WowThemes.net
+# Data Nerdz - A comprehensive Technical Blog for Cloud Native Data enthusiasts
 
-[Blog](https://wowthemesnet.github.io/mundana-theme-jekyll/) &nbsp; &nbsp;&nbsp;&nbsp; | &nbsp;  
-[Documentation](https://bootstrapstarter.com/mundana-theme-jekyll/) &nbsp; | &nbsp; 
+[Blog](https://github.com/bimal-parajuli/Datanerdz/) &nbsp; &nbsp;&nbsp;&nbsp; | &nbsp;  
+
 
 
 ![mundana jekyll theme screenshot](assets/images/screenshot.jpg)
 
-
+<br><br><br>
 ### Contribute to the Data Nerdz blog:
 
 1. In the top-right corner of this page, click **Fork**.
@@ -42,8 +42,8 @@ Copyright (C) 2022 Bimal Parajuli.
 
 This blog is maintained by [Bimal](https://github.com/bimal-parajuli/)
 
-<a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+<a href="https://github.com/bimal-parajuli/Datanerdz/buy-me-a-coffee" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 ### Live Demo
 
-[Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/)
+[Live Demo](https://github.com/bimal-parajuli/Datanerdz/)

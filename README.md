@@ -1,6 +1,6 @@
 # Data Nerdz - A comprehensive Technical Blog for Cloud Native Data enthusiasts
 
-[Blog](https://github.com/bimal-parajuli/Datanerdz/) &nbsp; &nbsp;&nbsp;&nbsp; | &nbsp;  
+[Blog](https://bimal-parajuli.github.io/Datanerdz/) &nbsp; &nbsp;&nbsp;&nbsp; | &nbsp;  
 
 
 

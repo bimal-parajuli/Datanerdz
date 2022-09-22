@@ -34,5 +34,4 @@ image: assets/images/logo.png
 
         return result;
     }
-
 ```

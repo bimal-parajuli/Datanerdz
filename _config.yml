@@ -22,7 +22,7 @@ authors:
     Bimal:
       name:           Bimal Parajuli
       site:           https://www.bimalp.com.np
-      avatar:         /assets/images/bimal.jpg
+      avatar:         assets/images/bimal.jpg
       bio:            "Hey There! I am Bimal. I love to explore write articles about Cloud Technologies and Data as a whole."
       email:          bimalparajuli07@gmail.com
       twitter:        https://twitter.com/bima_888
@@ -46,7 +46,7 @@ defaults:
     values:
       layout: post
       author: Bimal
-      avatar: /assets/images/Bimal.jpg
+      avatar: assets/images/Bimal.jpg
       
   # all pages
   - scope:

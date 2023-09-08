@@ -1,0 +1,9 @@
+{
+    "grammarly.selectors": [
+        {
+            "language": "markdown",
+            "scheme": "file",
+            "pattern": "_posts/2023-01-24-Why-I-switched-to-Mercurial-from-git.md"
+        }
+    ]
+}
